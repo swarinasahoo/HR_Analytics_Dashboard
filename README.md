@@ -210,9 +210,9 @@ Provides demographic analysis including:
 
 # 👨‍💻 Author
 
-**Suraj Singh**
+**Swarina Sahoo**
 
 Data Analyst | Power BI | SQL | Python
 
 LinkedIn:
-https://www.linkedin.com/in/suraj-singh-data-science/
+www.linkedin.com/in/swarina-sahoo-21a260218
